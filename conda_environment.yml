@@ -1,0 +1,7 @@
+name: ask_lily
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - pandas
+
